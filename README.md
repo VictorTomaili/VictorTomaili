@@ -1,4 +1,6 @@
 ### Hi there 👋
+[Hire Me](https://superpeer.com/victor) 💼
 
-[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victortomaili&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/victortomaili)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victortomaili&langs_count=9&layout=compact&theme=tokyonight)](https://github.com/victortomaili)
+[Serenity.is](https://serenity.is) 💻
+
+![Metrics](https://metrics.lecoq.io/victortomaili)
